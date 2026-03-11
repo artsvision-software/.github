@@ -1,20 +1,28 @@
 # ArtsVision Software
 
-Welcome to the ArtsVision Software GitHub! We build software solutions tailored for arts organizations — helping performing arts companies, galleries, schools, and cultural institutions manage their operations, engage audiences, and grow.
-
-## Who We Are
-
-ArtsVision is a team of passionate developers and arts advocates dedicated to creating technology that works for the arts community. We understand the unique challenges arts organizations face, and we design our tools with those needs in mind.
+**ArtsVision** is today's most comprehensive and robust planning and resource management application available to the performing arts community.
 
 ## What We Do
 
-- **Operations Management** – Streamline scheduling, ticketing, membership, and reporting so your team can focus on the art.
-- **Audience Engagement** – Tools to help you connect with patrons, donors, and the wider community.
-- **Custom Solutions** – We work closely with arts organizations to build software that fits their workflow.
+Designed around a robust company-wide calendar, ArtsVision can manage virtually all aspects of administration, including:
 
-## Get in Touch
+- Artistic planning
+- Repertoire and contract management
+- Rehearsal and production schedules
+- Venue and vendor management
+- Marketing, budgeting, and financial planning
+
+## Who We Are
+
+Built by a team of experts with decades of experience in arts management and administration, ArtsVision caters to the unique needs of performing arts organizations. Our team brings an extensive combination of experience in software development, product management, sales, marketing, operations, and finance — combined with deep, industry-specific expertise in performing arts administration, resource management, and planning.
+
+## Our Clients
+
+Our software has been developed in conjunction with and continues to serve opera houses, orchestras, and significant performance venues worldwide.
+
+## Learn More
 
 Visit **[site.artsvision.net](https://site.artsvision.net)** to learn more about our platform and services.
 
-- 📬 **[Contact Us](https://site.artsvision.net/contact)** — Reach out with questions or to request a demo.
-- 🔐 **[Log In](https://site.artsvision.net/login)** — Access your ArtsVision account.
+- 📬 **[Contact Us](mailto:info@artsvision.net)** — Reach out with questions or to request information.
+- 🔐 **[Log In](https://site.artsvision.net/login/)** — Access your ArtsVision account.
