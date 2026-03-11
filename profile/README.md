@@ -1,4 +1,4 @@
-# ArtsVision Software
+# ArtsVision
 
 **ArtsVision** is today's most comprehensive and robust planning and resource management application available to the performing arts community.
 
